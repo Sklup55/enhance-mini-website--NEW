@@ -65,6 +65,7 @@ Step-by-step instructions guide you through the process.
 
 <img src="./images/Ex1_2.png" />
 
+
 2. Save and Publish your work
 
 - After adding the content to your new page, click `Save Draft` to preserve your ongoing work. 
