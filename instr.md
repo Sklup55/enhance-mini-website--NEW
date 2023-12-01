@@ -53,11 +53,11 @@ You will display the flowers in two columns, each showcasing a flower picture, d
 
 Step-by-step instructions guide you through the process.
 
-1. Create a new page
+#### 1. Create a new page</b>
 
 - Access the WordPress dashboard and locate the `Pages` tab on the left menu.
 
-- Click **Add New** to create a new page.
+- Click `Add New` to create a new page.
 
 <img src="./images/Ex1_1.png"  />
 
@@ -66,15 +66,16 @@ Step-by-step instructions guide you through the process.
 <img src="./images/Ex1_2.png" />
 
 
-2. Save and Publish your work
+#### 2. Save and Publish your work
 
 - After adding the content to your new page, click `Save Draft` to preserve your ongoing work. 
 
-- When you are satisfied with the page's content, click on the **Publish** button, to make it accessible on your website.
+- When you are satisfied with the page's content, click on the `Publish` button, to make it accessible on your website.
 
 <img src="./images/Ex1_3.png" />
 
-3. Modify the Menu.
+
+#### 3. Modify the Menu.
 
 - Navigate back to your WordPress dashboard.
 
@@ -96,7 +97,7 @@ Step-by-step instructions guide you through the process.
 
 <img src="./images/Ex1_7.png"  />
 
-4. Verify the updates:
+#### 4. Verify the updates:
 
 - Return to your WordPress site to verify the changes. You will observe that the navigation bar now includes Popular Flowers.
 
