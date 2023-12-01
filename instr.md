@@ -48,19 +48,18 @@ Access the **Hands-on Lab: Launch a WordPress site** by clicking the [Launch a W
 
 In this exercise, you will learn how to add a new page named `Popular Flowers` to your WordPress website and integrate it into the existing navigation bar, which is a common task that can help you expand your site\'s content and improve the user experience.
 
-- The page will list 2 of the most popular flowers sold on the website.
+The page will list 2 of the most popular flowers sold on the website.
+You will display the flowers in two columns, each showcasing a flower picture, description, care instructions, and gifting occasions.
 
-- You will display the flowers in two columns, each showcasing a flower picture, description, care instructions, and gifting occasions.
+Step-by-step instructions guide you through the process.
 
-- Step-by-step instructions guide you through the process.
+##### 1. Create a new page
 
-1. Create a new page.
+1. Access the WordPress dashboard and locate the `Pages` tab on the left menu.
 
-- Access the WordPress dashboard and locate the `Pages` tab on the left menu.
-- Click **Add New** to create a new page.
+2. Click **Add New** to create a new page.
 
 <img src="./images/Ex1_2.png"  />
-
 
 
 Provide an appropriate title for your page, marked as number 1.
@@ -69,33 +68,25 @@ After adding the content to your new page, ensure you click **Save Draft** to pr
 When you are satisfied with the page's content, proceed to click the **Publish** button, depicted as number 3, to make it accessible on your website.
 
 
-<img src="./images/Ex1_2.png" />
+<img src="./images/Ex1_3.png" />
 
 3. Modify the Menu.
 - Navigate back to your WordPress dashboard. Click **Appearance**, indicated as number 1 in the menu items. Then, as referenced by number 2, select **Menu** and pick out Popular Flowers as shown at number 3. Following this step, proceed to click on Add Menu as indicated by number 4.
 
-<img src="./images/Ex1_3.1.png"  />
+<img src="./images/Ex1_4.png"  />
 
 Then the Popular Flowers page will be added in the menu list as shown below.
 
-<img src="./images/Ex1_3.png"  />
+<img src="./images/Ex1_5.png"  />
 
 
 4. Return to your WordPress site to verify the changes. You will observe that the navigation bar now includes Popular Flowers.
 
 ![Wordpress site highlights the Popular Flowers tab.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/6_six.PNG)
-<img src="./images/Ex1_4.png"  />
+<img src="./images/Ex1_6.png"  />
 
 5. 
 
-<img src="./images/Ex1_5.png"  />
-
-
-6.
-<img src="./images/Ex1_6.png"  />
-
-
-7.
 <img src="./images/Ex1_7.png"  />
 
 
