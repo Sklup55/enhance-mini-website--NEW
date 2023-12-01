@@ -39,6 +39,10 @@ Access the **Hands-on Lab: Launch a WordPress site** by clicking the [Launch a W
 
 ![Intela Education, Wordpress classrom welcome screen with username and password highlighted.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/inteliedus.png)
 
+<img src="./images/Ex1_1.png" alt="Intela Education, Wordpress classrom welcome screen with username and password highlighted" />
+
+
+
 
 3. Begin by following the instructions in the next item in the course, Lab Instructions: **Enhance a Mini Website with WordPress**, to complete the lab, which involves launching the WordPress within the lab.
 4. WordPress provides a user-friendly interface that enables users to manage content, customize the website\'s design and functionality, and control user access and permissions.
@@ -63,6 +67,8 @@ In this exercise, you will learn how to add a new page named **Popular Flowers**
 1. Create a new page.
 Access the WordPress dashboard and locate the **Pages** tab on the left menu.
 Click **Add New** to create a new page.
+
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/first.PNG" alt="Left menu with Pages tab and Add New option highlighted.">
 
 <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/first.PNG" alt="Left menu with Pages tab and Add New option highlighted.">
 
