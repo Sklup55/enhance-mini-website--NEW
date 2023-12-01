@@ -37,8 +37,6 @@ Access the **Hands-on Lab: Launch a WordPress site** by clicking the [Launch a W
 	1. It automatically generates a username and password for the **Intela Education- WordPress Classroom**.
 	2. Based on these credentials, you can access to  **Instance URL** and **Dashboard URL** to navigate the **Intela Education- WordPress Classroom** environment.
 
-![Intela Education, Wordpress classrom welcome screen with username and password highlighted.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/inteliedus.png)
-
 <img src="./images/Ex1_1.png" alt="Intela Education, Wordpress classrom welcome screen with username and password highlighted" />
 
 
