@@ -40,14 +40,11 @@ Access the **Hands-on Lab: Launch a WordPress site** by clicking the [Launch a W
 <img src="./images/Ex1_1.png" alt="Intela Education, Wordpress classrom welcome screen with username and password highlighted" />
 
 
+3. WordPress provides a user-friendly interface that enables users to manage content, customize the website\'s design and functionality, and control user access and permissions.
 
+4. The admin area allows users to create and edit pages, posts, and other types of content, manage media files, install and activate plugins and themes, and monitor website analytics.
 
-3. Begin by following the instructions in the next item in the course, Lab Instructions: **Enhance a Mini Website with WordPress**, to complete the lab, which involves launching the WordPress within the lab.
-4. WordPress provides a user-friendly interface that enables users to manage content, customize the website\'s design and functionality, and control user access and permissions.
-
-5. The admin area allows users to create and edit pages, posts, and other types of content, manage media files, install and activate plugins and themes, and monitor website analytics.
-
-6. In the WordPress admin, users can also manage user accounts, assign user roles and permissions, and moderate comments and user-generated content. The admin area is only accessible to users with the appropriate login credentials and permissions.
+5. In the WordPress admin, users can also manage user accounts, assign user roles and permissions, and moderate comments and user-generated content. The admin area is only accessible to users with the appropriate login credentials and permissions.
 
 
 
