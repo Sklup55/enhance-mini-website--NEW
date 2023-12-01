@@ -35,7 +35,7 @@ Access the **Hands-on Lab: Launch a WordPress site** by clicking the [Launch a W
 	1. It automatically generates a username and password for the **Intela Education- WordPress Classroom**.
 	2. Based on these credentials, you can access the  **Instance URL** and **Dashboard URL** for navigating to the **Intela Education- WordPress Classroom** environment.
 
-<img src="./images/Ex1_1.png" />
+<img src="./images/WP_Launch.png" />
 
 3. WordPress provides a user-friendly interface that enables users to manage content, customize the website\'s design and functionality, and control user access and permissions.
 
@@ -53,123 +53,156 @@ You will display the flowers in two columns, each showcasing a flower picture, d
 
 Step-by-step instructions guide you through the process.
 
-##### 1. Create a new page
+1. Create a new page
 
-1. Access the WordPress dashboard and locate the `Pages` tab on the left menu.
+- Access the WordPress dashboard and locate the `Pages` tab on the left menu.
 
-2. Click **Add New** to create a new page.
+- Click **Add New** to create a new page.
 
-<img src="./images/Ex1_2.png"  />
+<img src="./images/Ex1_1.png"  />
 
+- Provide an appropriate title and description for your page.
 
-Provide an appropriate title for your page, marked as number 1.
-Input the desired content for display on this new page, noted as number 2.
-After adding the content to your new page, ensure you click **Save Draft** to preserve your ongoing work. 
-When you are satisfied with the page's content, proceed to click the **Publish** button, depicted as number 3, to make it accessible on your website.
+<img src="./images/Ex1_2.png" />
 
+2. Save and Publish your work
+
+- After adding the content to your new page, click `Save Draft` to preserve your ongoing work. 
+
+- When you are satisfied with the page's content, click on the **Publish** button, to make it accessible on your website.
 
 <img src="./images/Ex1_3.png" />
 
 3. Modify the Menu.
-- Navigate back to your WordPress dashboard. Click **Appearance**, indicated as number 1 in the menu items. Then, as referenced by number 2, select **Menu** and pick out Popular Flowers as shown at number 3. Following this step, proceed to click on Add Menu as indicated by number 4.
 
-<img src="./images/Ex1_4.png"  />
+- Navigate back to your WordPress dashboard.
 
-Then the Popular Flowers page will be added in the menu list as shown below.
+<img src="./images/Ex1_3.2.png" />
+
+- Click on `Appearance` in the Menu items. Further select `Menu`.
+
+<img src="./images/Ex1_4.png" />
+
+- Select the `Popular Flowers` menu, and click on `Add Menu`.
 
 <img src="./images/Ex1_5.png"  />
 
+- Click on `Save Menu`.
 
-4. Return to your WordPress site to verify the changes. You will observe that the navigation bar now includes Popular Flowers.
-
-![Wordpress site highlights the Popular Flowers tab.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/6_six.PNG)
 <img src="./images/Ex1_6.png"  />
 
-5. 
+- With this, the `Popular Flowers` page will be added to the Menu list, as shown below:
 
 <img src="./images/Ex1_7.png"  />
 
+4. Verify the updates:
+
+- Return to your WordPress site to verify the changes. You will observe that the navigation bar now includes Popular Flowers.
+
+<img src="./images/Ex1_8.png"  />
+
+<br>
 
 ## Exercise 2: Set up Popular Flowers page to edit
 
-During this activity, you will personalize the page settings to incorporate flower images utilizing a table format.
+In this exercise, you will personalize the page settings to incorporate flower images utilizing a table format.
 
-1. Navigate to your dashboard and select **All Pages** from the left side menu. Select the Popular Flowers page you want to modify and then click the **Edit** option.
+1. Navigate to your dashboard and select `All Pages` from the left side menu.
+
+2. Hover over the `Popular Flowers` page, and click on the **Edit** option.
 
 <img src="./images/Ex2_1.png"  />
 
-After this, you will enter the **Popular Flower** page to customize it.
+- With this, you will enter the **Popular Flower** page to customize it.
 
-2. While editing the new page, you will encounter a segment located on the left side named **Toggle Block Inserter**. Click this section to choose the **table** option, identified as number 1 in the block menu item. This action will generate a template that allows you to select 2 columns and three rows, denoted as number 2. Subsequently, click **create table**, indicated as number 3, to complete the process.
+3. Click on the `Toggle Block Inserter` button on the top-left.
 
 <img src="./images/Ex2_2.png"  />
 
-
-3. After personalizing the page attributes, you will generate a structure similar to the one depicted below.
+4. Select the `Table` option.
 
 <img src="./images/Ex2_3.png"  />
 
+5. This will generate a template that allows you to select 2 columns and 2 rows.
 
-4. adaf
+6. Subsequently, click **Create table**, to generate a table.
 
 <img src="./images/Ex2_4.png"  />
 
 
-5. adafags
+3. The generated structure will look similar to:
 
 <img src="./images/Ex2_5.png"  />
 
+With this, you have successfully personalized the page attributes.
+
+<br>
 
 ## Exercise 3: Populate Popular Flowers page using images and text
 
-1. Next, select the cell located in the top-left corner (identified as number 1 in the accompanying screenshot). Following this, access the \'Toggle Block Inserter\' function. Choose the \'image\' option, indicated as number 2, and then click on the media library labeled as number 3 in the screenshot. From here, you can either select an image that is already present or upload a new image if desired.
+1. Select the first cell.
+
+2. Click on `More` and select the `Inline cell` option.
 
 <img src="./images/Ex3_1.png"  />
 
-2. You should include detailed descriptions of the flowers, care instructions, and ideal gifting occasions, accompanied by captivating images.
-
-3. Then, follow the provided screenshot sequence to add an image, add related text and click **alignment**.
+3. Select the image of the flower shown below and further click on `Select`.
 
 <img src="./images/Ex3_2.png"  />
 
-4. You can align the entire cell in left, right or center position.
+4. With this, the flower's image will be added to the block.
+
+<img src="./images/Ex3_2.2.png"  />
+
+5. You can align the image either to the left, right, or the centre.
 
 <img src="./images/Ex3_3.png"  />
 
-5. To customize the text layout, you have the option to adjust the text color and other attributes. Simply select the entire text and press **Tab** on your keyboard. This action opens a sidebar on the right side, allowing you to make the desired changes.
+6. Add descriptions of the flowers, care instructions, and ideal gifting occasions.
 
 <img src="./images/Ex3_4.png"  />
 
-6. adaf
+To customize the text layout, you can adjust the text color and other attributes. 
+
+7. To achieve this, select the entire text and press **Tab** on your keyboard.
+
+8. Click on the `Open document settings` button which opens to the bottom right.
 
 <img src="./images/Ex3_5.png"  />
 
-7. dgagsdg
+9. This action opens a sidebar on the right side, where you can select the `Style` panel which will provide you options for making the desired changes.
 
 <img src="./images/Ex3_6.png"  />
+
+<br>
 
 
 ## Exercise 4: Populate cells with flowers and text
 
-1. You need to populate all the remaining cells with the detailed descriptions of the flowers, care instructions, and ideal gifting occasions, accompanied by captivating images.
+1. You can similarly populate the 2nd cell with the detailed descriptions of the flowers, care instructions, and ideal gifting occasions, accompanied by captivating images.
 
 <img src="./images/Ex4_1.png"  />
 
-2. Following this, reopen the application to access the Popular Flowers page. Verify if the alignment meets your satisfaction and if you have successfully implemented all the changes.
+2. Click on the `Update` button on the top right to publish your updated content.
 
-<img src="./images/Ex4_1.png"  />
+<img src="./images/Ex4_2.png"  />
 
-3. fsfsgdsg
+3. Following this, click on this button to reopen the application to access the application.
 
 <img src="./images/Ex4_3.png"  />
 
 
+4. Verify the `Popular Flowers` page to see if all the syling aspects have been successfully implemented, and whether it meets your satisfaction.
 
-### Congratulations! You have completed the lab for Enhancing Mini Website using WordPress.
+<img src="./images/Ex4_4.png"  />
+
+<br>
+
+### Congratulations! You have completed the lab on Enhancing Mini Website using WordPress.
 
 ## Summary:
 
-In this lab, you improved your WordPress installation, crafted personalized pages, and enhanced your website\'s content and navigation. Your website is now more efficient and user-friendly.
+In this lab, you created your WordPress installation, crafted personalized pages, and enhanced your website\'s content and navigation. Your website is now efficient and user-friendly.
 
 <footer>
 <img align="left" src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/footer_6b.png" alt="">
@@ -190,7 +223,7 @@ Rav Ahuja
 |------|--------|--------|---------|
 | 2023-08-21 | 0.1 | Richa Arora | Initial version created |
 | 2023-09-06 | 0.2 | Steve Hord | QA pass with edits |
-| 2023-12-01 | 0.3 | K Sundararajan | Instructions updated for proceeding correctly as per the updated WordPress UI |
+| 2023-12-01 | 0.3 | K Sundararajan | Instructions updated as per the latest process in the IntelaEdu WordPress UI |
 
 
 ## <h3 align="center"> &#169; IBM Corporation 2023. All rights reserved. <h3/>
