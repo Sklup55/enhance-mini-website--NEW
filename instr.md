@@ -37,7 +37,7 @@ Access the **Hands-on Lab: Launch a WordPress site** by clicking the [Launch a W
 	1. It automatically generates a username and password for the **Intela Education- WordPress Classroom**.
 	2. Based on these credentials, you can access to  **Instance URL** and **Dashboard URL** to navigate the **Intela Education- WordPress Classroom** environment.
 
-<img src="./images/Ex1_1.png" alt="Intela Education, Wordpress classrom welcome screen with username and password highlighted" />
+<img src="./images/Ex1_1.png" />
 
 
 3. WordPress provides a user-friendly interface that enables users to manage content, customize the website\'s design and functionality, and control user access and permissions.
@@ -63,10 +63,7 @@ In this exercise, you will learn how to add a new page named **Popular Flowers**
 Access the WordPress dashboard and locate the **Pages** tab on the left menu.
 Click **Add New** to create a new page.
 
-<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/first.PNG" alt="Left menu with Pages tab and Add New option highlighted.">
-
-<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/first.PNG" alt="Left menu with Pages tab and Add New option highlighted.">
-
+<img src="./images/Ex1_1.png"  />
 
 2. Save and publish the new page.
 
@@ -76,21 +73,34 @@ After adding the content to your new page, ensure you click **Save Draft** to pr
 When you are satisfied with the page's content, proceed to click the **Publish** button, depicted as number 3, to make it accessible on your website.
 
 
-![Popular Flower website with title, content, and Publish button highlighted.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/2_second.PNG)
+<img src="./images/Ex1_2.png" />
 
 3. Modify the Menu.
 - Navigate back to your WordPress dashboard. Click **Appearance**, indicated as number 1 in the menu items. Then, as referenced by number 2, select **Menu** and pick out Popular Flowers as shown at number 3. Following this step, proceed to click on Add Menu as indicated by number 4.
 
-![Wordpress dashboard with step 1 Appearance tab, step 2 Menus option, step 3 menu items Popular Flowers, and step 4 Add to Menu button are highlighted.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/3_third.PNG)
+<img src="./images/Ex1_3.1.png"  />
 
 Then the Popular Flowers page will be added in the menu list as shown below.
 
-![Popular Flowers page highlighted in the menu list.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/4_fourth.PNG)
+<img src="./images/Ex1_3.png"  />
+
 
 4. Return to your WordPress site to verify the changes. You will observe that the navigation bar now includes Popular Flowers.
 
 ![Wordpress site highlights the Popular Flowers tab.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/6_six.PNG)
+<img src="./images/Ex1_4.png"  />
 
+5. 
+
+<img src="./images/Ex1_5.png"  />
+
+
+6.
+<img src="./images/Ex1_6.png"  />
+
+
+7.
+<img src="./images/Ex1_7.png"  />
 
 
 ## Exercise 2: Set up Popular Flowers page to edit
@@ -99,51 +109,74 @@ During this activity, you will personalize the page settings to incorporate flow
 
 1. Navigate to your dashboard and select **All Pages** from the left side menu. Select the Popular Flowers page you want to modify and then click the **Edit** option.
 
-![Dashboard highlights the Edit option for Popular Flowers site.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/7_seven.PNG)
+<img src="./images/Ex2_1.png"  />
 
 After this, you will enter the **Popular Flower** page to customize it.
 
 2. While editing the new page, you will encounter a segment located on the left side named **Toggle Block Inserter**. Click this section to choose the **table** option, identified as number 1 in the block menu item. This action will generate a template that allows you to select 2 columns and three rows, denoted as number 2. Subsequently, click **create table**, indicated as number 3, to complete the process.
 
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/8.PNG)
+<img src="./images/Ex2_2.png"  />
+
+
 3. After personalizing the page attributes, you will generate a structure similar to the one depicted below.
 
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/9.PNG)
+<img src="./images/Ex2_3.png"  />
 
+
+4. adaf
+
+<img src="./images/Ex2_4.png"  />
+
+
+5. adafags
+
+<img src="./images/Ex2_5.png"  />
 
 
 ## Exercise 3: Populate Popular Flowers page using images and text
 
 1. Next, select the cell located in the top-left corner (identified as number 1 in the accompanying screenshot). Following this, access the \'Toggle Block Inserter\' function. Choose the \'image\' option, indicated as number 2, and then click on the media library labeled as number 3 in the screenshot. From here, you can either select an image that is already present or upload a new image if desired.
 
-![Block menu highlights step 1 Table, step 2 column and row count, and step 3 Create Table button.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/10.PNG)
+<img src="./images/Ex3_1.png"  />
 
 2. You should include detailed descriptions of the flowers, care instructions, and ideal gifting occasions, accompanied by captivating images.
 
 3. Then, follow the provided screenshot sequence to add an image, add related text and click **alignment**.
 
-![Step 1 add an image, step 2 add descriptive content, and step 3 align on site.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/11.PNG)
-
-
+<img src="./images/Ex3_2.png"  />
 
 4. You can align the entire cell in left, right or center position.
 
-![Cell alignment options highlight left, center, and right.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/12.PNG)
+<img src="./images/Ex3_3.png"  />
 
 5. To customize the text layout, you have the option to adjust the text color and other attributes. Simply select the entire text and press **Tab** on your keyboard. This action opens a sidebar on the right side, allowing you to make the desired changes.
 
-![Text layout highlights content with attribute menu.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/13.PNG)
-Note: You can also use **ctrl+shift+**, to open this bar after selecting the text.
+<img src="./images/Ex3_4.png"  />
+
+6. adaf
+
+<img src="./images/Ex3_5.png"  />
+
+7. dgagsdg
+
+<img src="./images/Ex3_6.png"  />
 
 
-
-## Exercise 3: Populate cells with flowers and text
+## Exercise 4: Populate cells with flowers and text
 
 1. You need to populate all the remaining cells with the detailed descriptions of the flowers, care instructions, and ideal gifting occasions, accompanied by captivating images.
 
-![Cells with images, text, and instructions.](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0111EN-Coursera/images/14.PNG)
+<img src="./images/Ex4_1.png"  />
 
 2. Following this, reopen the application to access the Popular Flowers page. Verify if the alignment meets your satisfaction and if you have successfully implemented all the changes.
+
+<img src="./images/Ex4_1.png"  />
+
+3. fsfsgdsg
+
+<img src="./images/Ex4_3.png"  />
+
+
 
 ### Congratulations! You have completed the lab for Enhancing Mini Website using WordPress.
 
@@ -170,6 +203,8 @@ Rav Ahuja
 |------|--------|--------|---------|
 | 2023-08-21 | 0.1 | Richa Arora | Initial version created |
 | 2023-09-06 | 0.2 | Steve Hord | QA pass with edits |
-| 2023-12-01 | 0.3 | K Sundararajan | IntelaEDu link for "Launch a WordPress site" updated for the lab to work correctly |
+| 2023-12-01 | 0.3 | K Sundararajan | Instructions updated for proceeding correctly as per the updated WordPress UI |
+
+
 ## <h3 align="center"> &#169; IBM Corporation 2023. All rights reserved. <h3/>
 --->
