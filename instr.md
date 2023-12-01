@@ -29,43 +29,39 @@ A content management system (CMS) like WordPress is a robust platform that empow
 
 Access the **Hands-on Lab: Launch a WordPress site** by clicking the [Launch a WordPress site](https://www.coursera.org/learn/getting-started-with-front-end-and-web-development/ungradedLti/7IObz/generate-a-wordpress-site "link").
 
-
-
 1. The tool in the **Hands-on Lab: Launch a WordPress site** generates and launches a WordPress site for you in a new browser tab.
 
 2. You will receive the details as shown in the provided screenshot, including the credentials of your own WordPress website, which will direct you to -Intela Education- wordpress Classroom.
 	1. It automatically generates a username and password for the **Intela Education- WordPress Classroom**.
-	2. Based on these credentials, you can access to  **Instance URL** and **Dashboard URL** to navigate the **Intela Education- WordPress Classroom** environment.
+	2. Based on these credentials, you can access the  **Instance URL** and **Dashboard URL** for navigating to the **Intela Education- WordPress Classroom** environment.
 
 <img src="./images/Ex1_1.png" />
 
-
 3. WordPress provides a user-friendly interface that enables users to manage content, customize the website\'s design and functionality, and control user access and permissions.
 
-4. The admin area allows users to create and edit pages, posts, and other types of content, manage media files, install and activate plugins and themes, and monitor website analytics.
+4. The Admin area allows users to create and edit pages, posts, and other types of content, manage media files, install and activate plugins and themes, and monitor website analytics.
 
-5. In the WordPress admin, users can also manage user accounts, assign user roles and permissions, and moderate comments and user-generated content. The admin area is only accessible to users with the appropriate login credentials and permissions.
-
-
+5. In WordPress Admin, users can also manage user accounts, assign user roles and permissions, and moderate comments and user-generated content. The Admin area is only accessible to users with the appropriate login credentials and permissions.
 
 
 ## Exercise 1: Create a new page and add menu item
 
-In this exercise, you will learn how to add a new page named **Popular Flowers** to your old WordPress website and integrate it into the existing navigation bar, which is a common task that can help you expand your site\'s content and improve the user experience.
+In this exercise, you will learn how to add a new page named `Popular Flowers` to your WordPress website and integrate it into the existing navigation bar, which is a common task that can help you expand your site\'s content and improve the user experience.
 
-- The page will list six of the most popular flowers sold on the website.
+- The page will list 2 of the most popular flowers sold on the website.
 
 - You will display the flowers in two columns, each showcasing a flower picture, description, care instructions, and gifting occasions.
 
 - Step-by-step instructions guide you through the process.
 
 1. Create a new page.
-Access the WordPress dashboard and locate the **Pages** tab on the left menu.
-Click **Add New** to create a new page.
 
-<img src="./images/Ex1_1.png"  />
+- Access the WordPress dashboard and locate the `Pages` tab on the left menu.
+- Click **Add New** to create a new page.
 
-2. Save and publish the new page.
+<img src="./images/Ex1_2.png"  />
+
+
 
 Provide an appropriate title for your page, marked as number 1.
 Input the desired content for display on this new page, noted as number 2.
