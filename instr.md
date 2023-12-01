@@ -111,11 +111,11 @@ In this exercise, you will personalize the page settings to incorporate flower i
 
 1. Navigate to your dashboard and select `All Pages` from the left side menu.
 
-2. Hover over the `Popular Flowers` page, and click on the **Edit** option.
+2. Hover over the `Popular Flowers` page, and click on the `Edit` option.
 
 <img src="./images/Ex2_1.png"  />
 
-- With this, you will enter the **Popular Flower** page to customize it.
+- With this, you will enter the `Popular Flowers` page to customize it.
 
 3. Click on the `Toggle Block Inserter` button on the top-left.
 
@@ -127,7 +127,7 @@ In this exercise, you will personalize the page settings to incorporate flower i
 
 5. This will generate a template that allows you to select 2 columns and 2 rows.
 
-6. Subsequently, click **Create table**, to generate a table.
+6. Subsequently, click `Create Table**, to generate a table.
 
 <img src="./images/Ex2_4.png"  />
 
@@ -166,7 +166,7 @@ With this, you have successfully personalized the page attributes.
 
 To customize the text layout, you can adjust the text color and other attributes. 
 
-7. To achieve this, select the entire text and press **Tab** on your keyboard.
+7. To achieve this, select the entire text and press the `Tab` key on your keyboard.
 
 8. Click on the `Open document settings` button which opens to the bottom right.
 
